@@ -1,6 +1,7 @@
-printf("Im Juan Cruz Insua."\n);
+printf("Hola, soy Juan Cruz Insua."\n);
 
-- printf("- 🌱 I’m currently learning C programming fundamentals"\n);
-- printf("- 💬 Ask me about some projects i've."\n);
-- printf("- 📫 How to reach me: https://www.linkedin.com/in/juan-cruz-insua/ \n");
+- printf("- 🌱 Soy actualmente estudiante de Tecnicatura en Programacion en UTN"\n);
+- printf("- 💬 Actualmente me capacito en Cobol AS/400."\n);
+- printf("- 📫 Podes contactarme en: https://www.linkedin.com/in/juan-cruz-insua/
+                o tambien en: insuajuancruz@gmail.com \n");
 
